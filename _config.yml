@@ -14,10 +14,8 @@ author: Amedee Roy
 navbar-links:
   Data:
     - Visit Shiny App: "https://amdroy.shinyapps.io/seabirdmap/"
-  WaveLightGLS:
-    - Overview: "wavelightgls"
-    - Results: "https://amedeeroy.github.io/WaveLightGLS/"
-    - GitHub: "https://github.com/AmedeeRoy/WaveLightGLS"
+    - GitHub : "https://github.com/AmedeeRoy/SeabirdMap/"
+  Presentation: "presentation"
 
 # --- Local development options ---
 
